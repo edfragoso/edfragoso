@@ -2,9 +2,9 @@
 
 <div align="left">
 
-## 👋 Hello! Welcome to my Github profile.
-### My name is Ednilson Fragoso and my nickname is "Ed"!
-<img align="right" src="./img/avatar1.jpeg"  width="130" height="180">
+## 👋 Olá, bem vindo ao meu repositório gitHub.
+### Meu nome é Ednilson!
+<img align="right" src="./img/avatar4.jpeg"  width="150" height="200">
 
 </div>
 <div>
