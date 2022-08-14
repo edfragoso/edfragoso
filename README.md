@@ -2,10 +2,10 @@
 
 ## 👋 Olá, bem vindo ao meu repositório gitHub.
 
-<h1>Ednilson Fragoso</h1><img align="right" src="./img/avatar4.jpeg"  width="150" height="200">
+
 <p>Natural do estado do Rio Grande Do Sul-BR</p>
 <p>Estudante desenvolvimento Web Full Stack</p>
-<p>Atualmente dedicação total ao aprendizado de desenvolvimento WEB, nesse repositório encontrará todas as atividades desenvolvidas ao longo deste curso.<br>Iniciado os estudos no ano de 2020, começando por algoritmos com Professor Gustavo Guanabara do CURSO EM VIDEO, passando por HTML5, CSS3, Python, Java e MySql.<br>Em Busca de uma nova profissão, uma antiga paixão, a tecnologia.<br>Hoje faço parte com muito orgulho da Escola Blue onde venho desenvolvendo as principais aplicações no mundo de desenvolvimento WEB, Backend + Frontend + Full Stack + Ciência de Dados</p>
+<p>Atualmente dedicação total ao aprendizado de desenvolvimento WEB, nesse repositório encontrará todas as atividades desenvolvidas ao longo deste curso.<br>Iniciado os estudos no ano de 2020, começando por algoritmos com o mestre 🖖🖖, Professor Gustavo Guanabara do CURSO EM VIDEO, passando por HTML5, CSS3, Python, Java e MySql.<br>Em Busca de uma nova profissão, uma antiga paixão, a tecnologia.<br>Hoje faço parte com muito orgulho da Escola Blue onde venho desenvolvendo as principais aplicações no mundo de desenvolvimento WEB, Backend + Frontend + Full Stack + Ciência de Dados</p>
 
 [cursoemvideo.com](https://www.cursoemvideo.com/)
 
