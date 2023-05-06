@@ -22,15 +22,16 @@
 
 ![Snake animation](https://github.com/edfragoso/edfragoso/blob/output/github-contribution-grid-snake.svg)
 
-<h1>Estou aprendendo</h1>
+
 
 <div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://rodrigoreisf.files.wordpress.com/2018/06/node-logo1.png" width="80" height="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/> <img src="https://camo.githubusercontent.com/d7c7db5cd2798f8021e89e6697e84ad73c814e33f5760b1f0260dd66df9f54fb/68747470733a2f2f7472616e73616e672e6d652f636f6e74656e742f696d616765732f323031392f31312f457870726573734a532e706e67" width="80" height="40"/>          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" />         
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="60" height="60"/>
+<img src="https://camo.githubusercontent.com/d7c7db5cd2798f8021e89e6697e84ad73c814e33f5760b1f0260dd66df9f54fb/68747470733a2f2f7472616e73616e672e6d652f636f6e74656e742f696d616765732f323031392f31312f457870726573734a532e706e67" width="80" height="40"/>          
 </div>
 
 <h1>Contacts</h1>
